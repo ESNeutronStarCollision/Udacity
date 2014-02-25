@@ -1,4 +1,4 @@
-course - cs344
+cs344 - Introduction to Parallel Programming
 =====
 
 Introduction to Parallel Programming class code
