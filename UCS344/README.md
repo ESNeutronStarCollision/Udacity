@@ -1,6 +1,4 @@
 course - cs344
-author - Shiv baishya
-spring 2014
 =====
 
 Introduction to Parallel Programming class code
